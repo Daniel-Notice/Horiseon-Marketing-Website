@@ -2,7 +2,7 @@
 
 ## Description
 
-Lastly, if your project is deployed, include a link to the deployed application here.
+https://daniel-notice.github.io/Horiseon-Marketing-Website/
 
 This is a marketing website that offers services to businesses and individuals that are looking to improve their website rankings and overall business.The technologies that were used to create this website are html and css. Completeing this project improved my use of semantic html.
 
