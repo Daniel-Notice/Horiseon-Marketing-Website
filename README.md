@@ -14,8 +14,7 @@ N/A
 
 Provide instructions and examples for use. Include screenshots as needed.
 
-```md
-![Screenshot of homapage](./starter/assets/images/screenshot.PNG)
+```md![screenshot](https://github.com/Daniel-Notice/Horiseon-Marketing-Website/assets/144740252/9bedb81b-0804-4697-a729-c4006fdc2f6b)
 ```
 
 ## Credits
