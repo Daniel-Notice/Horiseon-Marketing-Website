@@ -12,7 +12,7 @@ N/A
 
 ## Usage
 
-Provide instructions and examples for use. Include screenshots as needed.
+Below is a screenshot of the homepage. This design displays a simple but effective was to navigate around the website. Content is clear on the webpage and the colours that were used does not conflict which makes it easy for the user to read what's on the page.
 
 ![screenshot](https://github.com/Daniel-Notice/Horiseon-Marketing-Website/assets/144740252/9bedb81b-0804-4697-a729-c4006fdc2f6b)
 
